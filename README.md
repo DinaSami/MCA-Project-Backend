@@ -1,4 +1,4 @@
-# MCA
+# MCA-Project-Backend
 
 ## Authors : 
 
@@ -31,7 +31,7 @@
 
 * UML  
 
-![preview](./assests/connectionLifeCycle.png)
+![preview](./connectionLifeCycle.png)
 
 ## instructions
 
